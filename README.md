@@ -11,3 +11,6 @@
 - <b>Vulnerability Management Projects</b>
   - [Nessus Vulnerability Management HomeLab](https://github.com/MohammedAl13/Nessus-Vulnerability-Lab)
 
+- <b>Packet Capture Labs</b>
+  - [Wirehshark Hacking Lab](https://github.com/MohammedAl13/Wireshark-Hacking-Lab)
+
